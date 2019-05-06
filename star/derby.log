@@ -1,11 +1,11 @@
 ----------------------------------------------------------------
-Tue Mar 26 11:54:14 CET 2019:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0169-b9a2-e43d-00000d7e7c10 
-on database directory memory:G:\IDE\WorkPlace\star\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Mon Apr 22 11:29:55 GMT+01:00 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-016a-4498-5458-00000c6f2340 
+on database directory memory:C:\Users\Espada\git\MyRep\star\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
 Loaded from file:/C:/Users/Espada/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
 java.vendor=Oracle Corporation
 java.runtime.version=1.8.0_181-b13
-user.dir=G:\IDE\WorkPlace\star
+user.dir=C:\Users\Espada\git\MyRep\star
 os.name=Windows 10
 os.arch=amd64
 os.version=10.0
